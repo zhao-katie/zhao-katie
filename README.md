@@ -1,10 +1,10 @@
 ## Hello Hello! I'm Katie 👋
 
-👩🏻‍💻 Biostatistics MS @ University of Michigan
-🙆🏻‍♀️ Pharmaceutical Sciences BS @ University of Michigan
+<p>👩🏻‍💻 Biostatistics MS @ University of Michigan<br>
+🙆🏻‍♀️ Pharmaceutical Sciences BS @ University of Michigan</p>
 
 
-💊 Currently: Eli Lilly MS Statistics Intern
-📚 Formerly: Boston University SIBS & Cincinnati Children's Hospital Research Assistant
+<p>💊 Currently: Eli Lilly MS Statistics Intern<br>
+📚 Formerly: Boston University SIBS & Cincinnati Children's Hospital Research Assistant</p>
 
 ⭐ Dancer, Violinist, Skier, & Runner
