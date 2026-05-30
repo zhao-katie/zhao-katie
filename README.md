@@ -7,4 +7,4 @@
 <p>💊 Currently: Eli Lilly MS Statistics Intern<br>
 📚 Formerly: Boston University SIBS & Cincinnati Children's Hospital Research Assistant</p>
 
-⭐ Dancer, violinist, skier, runner, & pop-culture fiend
+⭐ Dancer, violinist, skier, jogger, & pop-culture fiend
