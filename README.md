@@ -5,8 +5,6 @@
 
 
 💊 Currently: Eli Lilly MS Statistics Intern
-
 📚 Formerly: Boston University SIBS & Cincinnati Children's Hospital Research Assistant
-
 
 ⭐ Dancer, Violinist, Skier, & Runner
